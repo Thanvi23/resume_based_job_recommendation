@@ -37,5 +37,4 @@ before going live on index.html which is in templates. you need to add data into
 
 then upload the resume in index.html to get the recommendations 
 
-thank you 
-ch Koteshwar
+
