@@ -9,7 +9,7 @@
 
 ## Run on your local system
 
-> 1. clone the repository `git clone https://github.com/KoteshwarChinnolla/resume_based_job_recommendation-`
+> 1. clone the repository `git clone https://github.com/Thanvi23/resume_based_job_recommendation-`
 > 2. the `cd resume_based_job_recommendation-`
 > 3. Create `.env` file
 >    > 1. Add mongodb url ( create a cluster and get the url)
